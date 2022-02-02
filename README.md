@@ -1,7 +1,4 @@
 ### Hi there 👋
-[![Mail](https://img.shields.io/badge/-12010423@mail.sustech.edu.cn-critical?style=flat-square&logo=Gmail&logoColor=white)](mailto:12010423@mail.sustech.edu.cn)
-[![Mail](https://img.shields.io/badge/-michaelzjh2002@gmail.com-critical?style=flat-square&logo=Gmail&logoColor=white)](michaelzjh2002@gmail.com)
-
 <!--
 **MichaelZhangJiahao/MichaelZhangJiahao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
