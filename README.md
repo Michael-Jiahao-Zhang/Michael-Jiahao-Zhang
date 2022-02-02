@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Algorithms, Discrete Mathematics, Database and Principles of Computer Composition.
 
-- 📫 How to reach me:
-- 12010423@mail.sustech.edu.cn;
-- michaelzjh2002@gmail.com;
+- 📫 How to reach me: michaelzjh2002@gmail.com;
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelZhangJiahao&show_icons=true&theme=radical)
