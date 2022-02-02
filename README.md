@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 12010423@mail.sustech.edu.cn;
 - michaelzjh2002@gmail.com;
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelZhangJiahao&show_icons=true&theme=onedark)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelZhangJiahao&show_icons=true&theme=synthwave)
