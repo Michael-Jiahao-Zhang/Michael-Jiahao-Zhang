@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Mail](https://img.shields.io/badge/-12010423@mail.sustech.edu.cn-critical?style=flat-square&logo=Gmail&logoColor=white)](mailto:12010423@mail.sustech.edu.cn)
+[![Mail](https://img.shields.io/badge/-michaelzjh2002@gmail.com-critical?style=flat-square&logo=Gmail&logoColor=white)](michaelzjh2002@gmail.com)
 
 <!--
 **MichaelZhangJiahao/MichaelZhangJiahao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,11 +12,12 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelZhangJiahao&show_icons=true&theme=merko)
+- 📫 How to reach me:
+- 12010423@mail.sustech.edu.cn;
+- michaelzjh2002@gmail.com;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelZhangJiahao)](https://github.com/anuraghazra/github-readme-stats)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelZhangJiahao&show_icons=true&theme=merko)
