@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Algorithms, Discrete Mathematics, Database and Principles of Computer Composition.
+- 🌱 I’m currently learning AI, Computer Networks, OOAD and Java2.
 
 - 📫 How to reach me: michaelzjh2002@gmail.com;
 
