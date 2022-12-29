@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm ZhangJiahao, a student of CSE in SUSTech.
+### I'm ZhangJiahao, a junior student of CSE in SUSTech.
 
 <!--
 **MichaelZhangJiahao/MichaelZhangJiahao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
