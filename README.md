@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning AI, Computer Networks, OOAD and Java2.
+- 🌱 I’m currently learning AI, C/C++, Operating System and Software Engineering.
 
 - 📫 How to reach me: michaelzjh2002@gmail.com;
 
