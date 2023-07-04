@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning AI, C/C++, Operating System and Software Engineering.
+- 🌱 I’m currently working on JIT Method Rename, Large Language Models, and Network Slicing.
 
 - 📫 How to reach me: michaelzjh2002@gmail.com;
 
