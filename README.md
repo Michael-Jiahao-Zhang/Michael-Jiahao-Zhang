@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: jzhang38@nd.edu;
 
+<!--
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelZhangJiahao&show_icons=true&theme=radical)
+-->
