@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Jiahao Zhang, a junior student of CSE in SUSTech.
+### I'm Jiahao Zhang, a senior student of Computer Science in Notre Dame.
 
 <!--
 **MichaelZhangJiahao/MichaelZhangJiahao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently working on JIT Method Rename, Large Language Models, and Network Slicing.
+- 🌱 I’m currently working on JIT Method Rename and Large Language Models.
 
 - 📫 How to reach me: jzhang38@nd.edu; michaelzjh2002@gmail.com
 
