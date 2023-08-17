@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently working on JIT Method Rename, Large Language Models, and Network Slicing.
 
-- 📫 How to reach me: jzhang38@nd.edu;
+- 📫 How to reach me: jzhang38@nd.edu; michaelzjh2002@gmail.com
 
 <!--
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelZhangJiahao&show_icons=true&theme=radical)
