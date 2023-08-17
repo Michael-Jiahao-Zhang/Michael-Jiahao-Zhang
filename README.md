@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Jiahao Zhang, a senior student of Computer Science in Notre Dame.
+### I'm Jiahao Zhang, a senior student of Computer Science in Southern University of Science and Technology. I am visiting Notre Dame as an exchange student in Fall 2023!
 
 <!--
 **MichaelZhangJiahao/MichaelZhangJiahao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
