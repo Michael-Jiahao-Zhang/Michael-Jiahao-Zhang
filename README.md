@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently working on Method Renaming and ReDoS Comprehension.
+- 🌱 I’m currently working on Method Renaming and ReDoS Comprehension with LLMs.
 
 - 📫 How to reach me: jzhang38@nd.edu; michaelzjh2002@gmail.com
 
