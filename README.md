@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Jiahao Zhang, a senior student of Computer Science in Southern University of Science and Technology(SUSTech). I am now visiting Notre Dame as an exchange student in Fall 2023!
+### I'm Jiahao Zhang, a senior student of Computer Science in Southern University of Science and Technology(SUSTech). I will be joining Vanderbilt University as a Ph.D. student in Fall 2024!
 
 <!--
 **MichaelZhangJiahao/MichaelZhangJiahao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
