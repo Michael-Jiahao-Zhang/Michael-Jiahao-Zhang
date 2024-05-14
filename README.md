@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I’m currently working on Automated Program Repair with LLMs.
 -->
 
-- 🌱 I’m currently working on Automated Program Repair with LLMs.
 
 - 📫 How to reach me: jiahao.zhang@vanderbilt.edu; michaelzjh2002@gmail.com
 
