@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Jiahao Zhang, a senior student of Computer Science in Southern University of Science and Technology(SUSTech). I will be joining Vanderbilt University as a Ph.D. student in Fall 2024!
+### My name is Jiahao Zhang(张嘉浩). I’m a first-year CS PhD student at Vanderbilt University, and fortunate to be advised by Prof. Yu Huang!
 
 <!--
 **MichaelZhangJiahao/MichaelZhangJiahao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
