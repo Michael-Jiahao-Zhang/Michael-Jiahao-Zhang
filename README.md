@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Jiahao Zhang(张嘉浩). I’m a second-year CS PhD student at Vanderbilt University, and fortunate to be advised by Prof. Yu Huang.
+### My name is Jiahao Zhang(张嘉浩). I’m a third-year CS PhD student at Vanderbilt University, and fortunate to be advised by Prof. Yu Huang.
 
 <!--
 **MichaelZhangJiahao/MichaelZhangJiahao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 📫 How to reach me: jiahao.zhang@vanderbilt.edu; michaelzjh2002@gmail.com
+- 📫 How to reach me: jiahao.zhang@vanderbilt.edu
 
 <!--
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelZhangJiahao&show_icons=true&theme=radical)
